@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipesindeaux
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML, Javascript and CSS
+- 🌱 I’m currently learning studying at Kenzie Academy
 - 📫 How to reach me felipesindeaux@outlook.com
 
 <!---
