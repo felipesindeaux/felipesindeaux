@@ -1,4 +1,14 @@
-<h3 align="center">Fullstack Developer</h3>
+# Olá! meu nome é Felipe Sindeaux e esta é minha conta pessoal!
+
+- 🖥️ Desenvolvedor Full Stack na [uMode](https://www.umode.com.br)
+- 🖥️ Veja minha conta de trabalho [aqui](https://github.com/felipesindeauxumode)
+- 🌍 Moro em Brasília - DF
+- 🖥️ Veja o meu [Portfolio](felipesindeaux.vercel.app)
+- ✉️ Você pode entrar em contato comigo a partir do [email](mailto:felipesindeaux@outlook.com)
+
+<br>
+
+<h3 align="center">Minhas Stacks</h3>
 
 <p align="left">
 </p>
